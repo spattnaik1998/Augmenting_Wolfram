@@ -1,0 +1,31 @@
+# Backend Requirements
+# Core Framework
+fastapi
+uvicorn[standard]
+
+# LangGraph and LangChain
+langgraph
+langchain
+langchain-core
+langchain-openai
+
+# OpenAI
+openai
+
+# HTTP Requests
+requests
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# Logging and Utilities
+python-multipart
+
+# Optional: For better JSON handling
+orjson
+
+# Optional: For monitoring and debugging
+rich
